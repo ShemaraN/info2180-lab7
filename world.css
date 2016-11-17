@@ -12,12 +12,12 @@ body{
 }
 
 #controls{
-    background-color: orange;
+    background-color: #33ffac;
     width: 500px;
     height:50px;
     margin-left: 420px;
 }
 
 #lookup{
-    background-color: yellow;
+    background-color: #ff3355;
 }
